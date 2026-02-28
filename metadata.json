@@ -1,0 +1,5 @@
+{
+  "name": "DarkCity Engine",
+  "description": "A CLI game maker and dashboard powered by Mistral AI, inspired by Godot.",
+  "requestFramePermissions": []
+}
